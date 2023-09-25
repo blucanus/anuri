@@ -4,3 +4,36 @@
     text-align: left;
     color: #333;
 }
+.flujo {
+    background-image: url(../img/alma-llena-logistica-anuri-construcciones.jpg);
+    background-size: cover;
+}
+
+.flujo .nav-pills .nav-link{
+    background: #1c1c1c;
+    border-radius: 50%;
+}
+.flujo .nav-pills .nav-link.active {
+    background: #fff;
+    border-radius: 50%;
+    color: #1c1c1c;
+}
+.flujo .nav-link {
+    border-radius: 50%;
+    height: 120px !important;
+    width: 120px !important;
+}
+.flujo .nav-link i {  
+    font-size: 4rem;
+}
+ .flujo .nav-link i{
+    color:#fff;
+}
+.flujo .nav-link.active i {
+    color: #1c1c1c;
+}
+
+
+footer {
+    background-color: #384C57;
+}
