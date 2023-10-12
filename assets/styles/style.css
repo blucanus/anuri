@@ -33,6 +33,20 @@
     color: #1c1c1c;
 }
 
+.detalle:after {
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+    width: 60px;
+    height: 4px;
+    content: '';
+    background: #f61414;
+}
+.box {
+    background: #ededed;
+    width: 84px;
+    height: auto;
+}
 
 footer {
     background-color: #384C57;
